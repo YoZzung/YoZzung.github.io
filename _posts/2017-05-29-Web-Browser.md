@@ -10,8 +10,8 @@ title: All about Pesitting Web UI!
 
 먼저 회원정보와 펫을 담고 있는 저장 매체는 데이터베이스를 이용하고 펫시터와 집 정보를 저장하는 곳은 블록체인입니다.
 그렇다면 먼저 회원정보에 대해서 알아보도록 하겠습니다.
-![_config.yml]({{ https://yozzung.github.io/ }}/images/log-in.png)
-![_config.yml]({{ https://yozzung.github.io/ }}/images/sign-up.png)
+![_config.yml]({{ yozzung.github.io }}/images/log-in.png)
+![_config.yml]({{ yozzung.github.io }}/images/sign-up.png)
 
 위 사진을 보면 회원 정보의 기본이 되는 이메일과 비밀번호를 받게 됩니다. 회원등록 이외에 모든 정보는
 이메일을 기분으로 이루어지기 때문입니다. 
